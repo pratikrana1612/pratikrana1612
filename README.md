@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br>[Uhost website](https://pratikrana1612.github.io/uhostwebsite/index.html)</br>
-<br>[Cv](https://pratikrana1612.github.io/CV/)</br>
+<br>[CV](https://pratikrana1612.github.io/CV/)</br>
 <br>[Waves](https://pratikrana1612.github.io/waves/)</br>
 <br>[Menu Button](https://pratikrana1612.github.io/Menu-button/)</br>
 <br>[Social Media Icons](https://pratikrana1612.github.io/social-media-icons/)</br>
