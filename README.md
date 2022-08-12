@@ -10,3 +10,4 @@
 <br>[Expanding cards](https://pratikrana1612.github.io/Expanding-Cards/)</br>
 <br>[Progess Steps](https://pratikrana1612.github.io/Progess-Steps/)</br>
 <br>[Rotating Navigation Animation](https://pratikrana1612.github.io/Rotating-Navigation-Animation/)</br>
+<br>[Hidden-Search-Widget](https://pratikrana1612.github.io/Hidden-Search-Widget/)</br>
