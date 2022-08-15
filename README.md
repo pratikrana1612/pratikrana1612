@@ -13,3 +13,4 @@
 <br>[Hidden-Search-Widget](https://pratikrana1612.github.io/Hidden-Search-Widget/)</br>
 <br>[Blurry Loading](https://pratikrana1612.github.io/Blurry-Loading/)</br>
 <br>[Scroll-Animation](https://pratikrana1612.github.io/Scroll-Animation/)</br>
+<br>[Split-Landing-Page](https://pratikrana1612.github.io/Split-Landing-Page/)</br>
