@@ -14,3 +14,4 @@
 <br>[Blurry Loading](https://pratikrana1612.github.io/Blurry-Loading/)</br>
 <br>[Scroll-Animation](https://pratikrana1612.github.io/Scroll-Animation/)</br>
 <br>[Split-Landing-Page](https://pratikrana1612.github.io/Split-Landing-Page/)</br>
+<br>[Form-Input-Wave](https://pratikrana1612.github.io/Form-Input-Wave/)</br>
