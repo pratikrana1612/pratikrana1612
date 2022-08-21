@@ -18,3 +18,4 @@
 <br>[Sound Board](https://pratikrana1612.github.io/Sound-Board/)</br>
 <br>[The Unconventional Calculator](https://pratikrana1612.github.io/The-Unconventional-Calculator/)</br>
 <br>[Dad Jokes](https://pratikrana1612.github.io/Dad-Jokes/)</br>
+<br>[event-keycodes](https://pratikrana1612.github.io/event-keycodes/)</br>
