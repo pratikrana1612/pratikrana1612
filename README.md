@@ -20,4 +20,5 @@
 <br>[Dad Jokes](https://pratikrana1612.github.io/Dad-Jokes/)</br>
 <br>[event-keycodes](https://pratikrana1612.github.io/event-keycodes/)</br>
 <br>[FAQ-Collapse](https://pratikrana1612.github.io/FAQ-Collapse/)</br>
+<br>[Random-Choice-Picker](https://pratikrana1612.github.io/Random-Choice-Picker/)</br>
 <br>[Animated-Navigation](https://pratikrana1612.github.io/Animated-Navigation/)</br>
