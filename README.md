@@ -23,3 +23,4 @@
 <br>[Random-Choice-Picker](https://pratikrana1612.github.io/Random-Choice-Picker/)</br>
 <br>[Animated-Navigation](https://pratikrana1612.github.io/Animated-Navigation/)</br>
 <br>[Rock-Paper-and-Scissors](https://pratikrana1612.github.io/Rock-Paper-and-Scissors/)</br>
+<br>[incrementing-counter](https://pratikrana1612.github.io/incrementing-counter/)</br>
