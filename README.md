@@ -24,3 +24,4 @@
 <br>[Animated-Navigation](https://pratikrana1612.github.io/Animated-Navigation/)</br>
 <br>[Rock-Paper-and-Scissors](https://pratikrana1612.github.io/Rock-Paper-and-Scissors/)</br>
 <br>[incrementing-counter](https://pratikrana1612.github.io/incrementing-counter/)</br>
+<br>[Drink-Water](https://pratikrana1612.github.io/Drink-Water/)</br>
