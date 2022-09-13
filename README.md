@@ -29,3 +29,4 @@
 <br>[Movie App](https://pratikrana1612.github.io/Movie-App/)</br>
 <br>[Favourite Movie Adder](https://pratikrana1612.github.io/Favourite-Movie-Adder/)</br>
 <br>[Background-Slider](https://pratikrana1612.github.io/Background-Slider/)</br>
+<br>[Postfix Evalution Solution](https://pratikrana1612.github.io/Postfix-Evalution/)</br>
