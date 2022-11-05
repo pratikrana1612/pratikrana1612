@@ -34,3 +34,4 @@
 <br>[Button-Ripple-Effect](https://pratikrana1612.github.io/Button-Ripple-Effect/)</br>
 <br>[Drag-N-Drop](https://pratikrana1612.github.io/Drag-N-Drop/)</br>
 <br>[Drawing-App](https://pratikrana1612.github.io/Drawing-App/)</br>
+<br>[kinetic-Loade](https://pratikrana1612.github.io/kinetic-Loader/)</br>
