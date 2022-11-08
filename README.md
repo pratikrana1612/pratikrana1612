@@ -35,3 +35,4 @@
 <br>[Drag-N-Drop](https://pratikrana1612.github.io/Drag-N-Drop/)</br>
 <br>[Drawing-App](https://pratikrana1612.github.io/Drawing-App/)</br>
 <br>[kinetic-Loader](https://pratikrana1612.github.io/kinetic-Loader/)</br>
+<br>[Content-Placeholder](https://pratikrana1612.github.io/Content-Placeholder/)</br>
