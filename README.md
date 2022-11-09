@@ -36,3 +36,4 @@
 <br>[Drawing-App](https://pratikrana1612.github.io/Drawing-App/)</br>
 <br>[kinetic-Loader](https://pratikrana1612.github.io/kinetic-Loader/)</br>
 <br>[Content-Placeholder](https://pratikrana1612.github.io/Content-Placeholder/)</br>
+<br>[Sticky-Navbar](https://pratikrana1612.github.io/Sticky-Navbar/)</br>
