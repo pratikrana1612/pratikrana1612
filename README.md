@@ -37,3 +37,4 @@
 <br>[kinetic-Loader](https://pratikrana1612.github.io/kinetic-Loader/)</br>
 <br>[Content-Placeholder](https://pratikrana1612.github.io/Content-Placeholder/)</br>
 <br>[Sticky-Navbar](https://pratikrana1612.github.io/Sticky-Navbar/)</br>
+<br>[Vertical-Slider](https://pratikrana1612.github.io/Vertical-Slider/)</br>
