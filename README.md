@@ -39,3 +39,4 @@
 <br>[Sticky-Navbar](https://pratikrana1612.github.io/Sticky-Navbar/)</br>
 <br>[Vertical-Slider](https://pratikrana1612.github.io/Vertical-Slider/)</br>
 <br>[Toast-Notification](https://pratikrana1612.github.io/Toast-Notification/)</br>
+<br>[Tic-Tac-Toe](https://pratikrana1612.github.io/Tic-Tac-Toe-/)</br>
