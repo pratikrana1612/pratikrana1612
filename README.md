@@ -19,3 +19,14 @@ Welcome to my GitHub! Here are some of my projects that I've worked on:
 | [Scroll-Animation](https://pratikrana1612.github.io/Scroll-Animation/)                       | [Favourite Movie Adder](https://pratikrana1612.github.io/Favourite-Movie-Adder/)             |                              |
 | [Split-Landing-Page](https://pratikrana1612.github.io/Split-Landing-Page/)                   |                                |                              |
 | [Form-Input-Wave](https://pratikrana1612.github.io/Form-Input-Wave/)                         |                                |                              |
+
+
+
+| JavaScript Projects    |
+|-----------------------------------|--------------------------------|
+| Project Planner           | [Link](https://pratikrana1612.github.io/Project-Planner/)                    |
+| Movie App                 | [Link](https://pratikrana1612.github.io/Movie-App/)                          |
+| Postfix Evaluation Sol.   | [Link](https://pratikrana1612.github.io/Postfix-Evalution/)                  |
+| Theme Clock               | [Link](https://pratikrana1612.github.io/Theme-Clock/)                        |
+| Drag-N-Drop               | [Link](https://pratikrana1612.github.io/Drag-N-Drop/)                        |
+| Tic-Tac-Toe               | [Link](https://pratikrana1612.github.io/Tic-Tac-Toe-/)                      |
