@@ -22,8 +22,6 @@ Welcome to my GitHub! Here are some of my projects that I've worked on:
 
 
 
-| JavaScript Projects    |
-|-----------------------------------|--------------------------------|
 | Project Planner           | [Link](https://pratikrana1612.github.io/Project-Planner/)                    |
 | Movie App                 | [Link](https://pratikrana1612.github.io/Movie-App/)                          |
 | Postfix Evaluation Sol.   | [Link](https://pratikrana1612.github.io/Postfix-Evalution/)                  |
