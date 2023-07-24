@@ -1,4 +1,8 @@
 
+
+<h1 align="center">Hi 👋, I'm Pratik Rana</h1>
+<h3 align="center">I am a Fullstack Developer and Software Engineering with a passion for learning new technologies and building ambitious & unique projects. Please learn more about me, my skills, and projects by reading below!</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana_pratik_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratik Rana) 
 
@@ -11,12 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratikrana1612&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratikrana1612&icon=0&color=0)](https://visitcount.itsvg.in)
