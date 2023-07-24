@@ -14,6 +14,28 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikrana1612&theme=blue-green&hide_border=false)
 
 
+# SOME OF MY PROJECTS
+| Web Development Projects                                                                         |                                                                                                  | JavaScript Projects                                                                |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [Uhost website](https://pratikrana1612.github.io/uhostwebsite/index.html)                        | [Sound Board](https://pratikrana1612.github.io/Sound-Board/)                                     | [Postfix Evaluation Solution](https://pratikrana1612.github.io/Postfix-Evalution/) |
+| [CV](https://pratikrana1612.github.io/CV/)                                                       | [The Unconventional Calculator](https://pratikrana1612.github.io/The-Unconventional-Calculator/) | [Theme-Clock](https://pratikrana1612.github.io/Theme-Clock/)                       |
+| [Waves](https://pratikrana1612.github.io/waves/)                                                 | [Dad Jokes](https://pratikrana1612.github.io/Dad-Jokes/)                                         | [Drag-N-Drop](https://pratikrana1612.github.io/Drag-N-Drop/)                       |
+| [Menu Button](https://pratikrana1612.github.io/Menu-button/)                                     | [event-keycodes](https://pratikrana1612.github.io/event-keycodes/)                               | [Drawing-App](https://pratikrana1612.github.io/Drawing-App/)                       |
+| [Social Media Icons](https://pratikrana1612.github.io/social-media-icons/)                       | [FAQ-Collapse](https://pratikrana1612.github.io/FAQ-Collapse/)                                   | [Content-Placeholder](https://pratikrana1612.github.io/Content-Placeholder/)       |
+| [Button Hover Effect](https://pratikrana1612.github.io/button-hover-effect/)                     | [Random-Choice-Picker](https://pratikrana1612.github.io/Random-Choice-Picker/)                   | [Project-Planner](https://pratikrana1612.github.io/Project-Planner/)               |
+| [Border Animation](https://pratikrana1612.github.io/Border-Animation/)                           | [Animated-Navigation](https://pratikrana1612.github.io/Animated-Navigation/)                     | [Tic-Tac-Toe](https://pratikrana1612.github.io/Tic-Tac-Toe-/)                      |
+| [Expanding cards](https://pratikrana1612.github.io/Expanding-Cards/)                             | [Rock-Paper-and-Scissors](https://pratikrana1612.github.io/Rock-Paper-and-Scissors/)             | [Share a place Application](https://place-finder-project-pratik.web.app/)          |
+| [Progess Steps](https://pratikrana1612.github.io/Progess-Steps/)                                 | [incrementing-counter](https://pratikrana1612.github.io/incrementing-counter/)                   |                                                                                    |
+| [Rotating Navigation Animation](https://pratikrana1612.github.io/Rotating-Navigation-Animation/) | [Drink-Water](https://pratikrana1612.github.io/Drink-Water/)                                     |                                                                                    |
+| [Hidden-Search-Widget](https://pratikrana1612.github.io/Hidden-Search-Widget/)                   | [Vertical-Slider](https://pratikrana1612.github.io/Vertical-Slider/)                             |
+| [Blurry Loading](https://pratikrana1612.github.io/Blurry-Loading/)                               | [Movie App](https://pratikrana1612.github.io/Movie-App/)                                         |
+| [Scroll-Animation](https://pratikrana1612.github.io/Scroll-Animation/)                           | [Favourite Movie Adder](https://pratikrana1612.github.io/Favourite-Movie-Adder/)                 |
+| [Split-Landing-Page](https://pratikrana1612.github.io/Split-Landing-Page/)                       | [Background-Slider](https://pratikrana1612.github.io/Background-Slider/)                         |
+| [Form-Input-Wave](https://pratikrana1612.github.io/Form-Input-Wave/)                             | [Button-Ripple-Effect](https://pratikrana1612.github.io/Button-Ripple-Effect/)                   |
+| [kinetic-Loader](https://pratikrana1612.github.io/kinetic-Loader/)                               | [Sticky-Navbar](https://pratikrana1612.github.io/Sticky-Navbar/)                                 |
+| [Toast-Notification](https://pratikrana1612.github.io/Toast-Notification/)                       |
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
